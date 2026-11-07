@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Treat Excel workbooks as binary files in Git.
+*.xlsx binary
+*.xls binary
+*.xlsm binary
